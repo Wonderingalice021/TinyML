@@ -1,2 +1,2 @@
 # TinyML
-Hopefully its tiny
+Hopefully it's tiny
